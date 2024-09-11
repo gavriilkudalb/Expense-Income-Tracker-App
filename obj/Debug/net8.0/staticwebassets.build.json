@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zSblvEpO0CetS8I2HxH6R9z+yjtVGqwXmKcOgQW6oqU=",
+  "Hash": "RTbgDwfTwsW24JjuAKz/xuo8dG3JIFoHZxkvNx2+6VI=",
   "Source": "Expence Tracker",
   "BasePath": "_content/Expence Tracker",
   "Mode": "Default",
@@ -1233,12 +1233,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\sp1ce\\source\\repos\\Expence Tracker\\Expence Tracker\\wwwroot\\pGcbrqTD_400x400.jpg",
+      "Identity": "C:\\Users\\sp1ce\\source\\repos\\Expence Tracker\\Expence Tracker\\wwwroot\\profile-pic\\profile-pic.jpg",
       "SourceId": "Expence Tracker",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sp1ce\\source\\repos\\Expence Tracker\\Expence Tracker\\wwwroot\\",
       "BasePath": "_content/Expence Tracker",
-      "RelativePath": "pGcbrqTD_400x400.jpg",
+      "RelativePath": "profile-pic/profile-pic.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1249,7 +1249,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\pGcbrqTD_400x400.jpg"
+      "OriginalItemSpec": "wwwroot\\profile-pic\\profile-pic.jpg"
     },
     {
       "Identity": "C:\\Users\\sp1ce\\source\\repos\\Expence Tracker\\Expence Tracker\\wwwroot\\wallet (2).png",
