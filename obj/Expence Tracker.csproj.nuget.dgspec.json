@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sp1ce\\source\\repos\\Expence Tracker\\Expence Tracker\\Expence Tracker.csproj": {}
+    "C:\\Users\\PC\\source\\repos\\Expense-Income-Tracker-App\\Expence Tracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sp1ce\\source\\repos\\Expence Tracker\\Expence Tracker\\Expence Tracker.csproj": {
+    "C:\\Users\\PC\\source\\repos\\Expense-Income-Tracker-App\\Expence Tracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sp1ce\\source\\repos\\Expence Tracker\\Expence Tracker\\Expence Tracker.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Expense-Income-Tracker-App\\Expence Tracker.csproj",
         "projectName": "Expence Tracker",
-        "projectPath": "C:\\Users\\sp1ce\\source\\repos\\Expence Tracker\\Expence Tracker\\Expence Tracker.csproj",
-        "packagesPath": "C:\\Users\\sp1ce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sp1ce\\source\\repos\\Expence Tracker\\Expence Tracker\\obj\\",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\Expense-Income-Tracker-App\\Expence Tracker.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\Expense-Income-Tracker-App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sp1ce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,6 +46,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
@@ -62,11 +70,11 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.4, )"
+              "version": "[8.0.5, )"
             },
             "Syncfusion.EJ2.AspNet.Core": {
               "target": "Package",
-              "version": "[26.2.10, )"
+              "version": "[26.2.4, )"
             }
           },
           "imports": [
@@ -88,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
