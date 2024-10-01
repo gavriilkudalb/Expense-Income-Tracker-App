@@ -11,7 +11,7 @@ namespace Expence_Tracker.Controllers
         {
             _context = context;
         }
-
+        
         public async Task<IActionResult> Index()
         {
             //Last 7 Days
@@ -86,7 +86,7 @@ namespace Expence_Tracker.Controllers
     {
         public string day;
         public int income;
-        public int expense;
+        public int expense; 
     }
 
 }
