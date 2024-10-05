@@ -1,4 +1,4 @@
-![Logo](https://sun9-45.userapi.com/impg/B96kSF2Yb0m2GvcOUGf9n4FezkfY7YGVinu1rg/2p4uRdF7DRM.jpg?size=32x32&quality=95&sign=bf739c373415f21ed6221f0682c8eb87&type=album)
+![Logo](https://sun9-78.userapi.com/impg/UGE_i9QtOTz_GlL6JTh7O4MCsREkGdnGcUpZew/Q9xbo6TcBm0.jpg?size=32x32&quality=95&sign=2ec6c8870a1267c5b5ca6c21d8caf1bd&type=album)
 # Expense Tracker
 
 This Expense Tracker App is a user-friendly web application designed to help individuals manage their finances effectively. Users can easily track their income and expenses, categorize transactions, and visualize spending habits through interactive charts.
