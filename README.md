@@ -57,6 +57,8 @@ This Expense Tracker App is a user-friendly web application designed to help ind
 
 **Server:** .Net Core, C#
 
+**Database:** MSQL Server
+
 
 ## Roadmap
 
